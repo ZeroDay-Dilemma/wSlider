@@ -364,7 +364,5 @@ class wSlider {
   
   void setLockedState(boolean val){isLocked=val;}
   void setTextVertOffset(int val){textVertOffset=val;}
-    
-  
   
 }
